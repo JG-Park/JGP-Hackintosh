@@ -19,4 +19,4 @@
 
 
 ## 공식 가이드 (필독)
-Ref. [ [Big sur 11.2/OC 0.6.6] i7 8700, GA-Z370 Aorus Gaming 5, XFX RX 5700 XT 8GB GDDR6 THICC III Ultra | jgpark.kr](https://jgpark.kr/685)
+[ [Big sur 11.2/OC 0.6.6] i7 8700, GA-Z370 Aorus Gaming 5, XFX RX 5700 XT 8GB GDDR6 THICC III Ultra ](https://jgpark.kr/685)
